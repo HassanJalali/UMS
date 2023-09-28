@@ -1,0 +1,11 @@
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Application.Contracts\bin\Debug\net7.0\Major.Application.Contracts.deps.json
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Application.Contracts\bin\Debug\net7.0\Major.Application.Contracts.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Application.Contracts\bin\Debug\net7.0\Major.Application.Contracts.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Application.Contracts\obj\Debug\net7.0\Major.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Application.Contracts\obj\Debug\net7.0\Major.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Application.Contracts\obj\Debug\net7.0\Major.Application.Contracts.AssemblyInfo.cs
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Application.Contracts\obj\Debug\net7.0\Major.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Application.Contracts\obj\Debug\net7.0\Major.Application.Contracts.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Application.Contracts\obj\Debug\net7.0\refint\Major.Application.Contracts.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Application.Contracts\obj\Debug\net7.0\Major.Application.Contracts.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Application.Contracts\obj\Debug\net7.0\ref\Major.Application.Contracts.dll

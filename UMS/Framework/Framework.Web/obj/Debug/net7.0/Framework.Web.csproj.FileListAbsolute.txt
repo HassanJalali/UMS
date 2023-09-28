@@ -1,0 +1,15 @@
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\bin\Debug\net7.0\Framework.Web.deps.json
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\bin\Debug\net7.0\Framework.Web.dll
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\bin\Debug\net7.0\Framework.Web.pdb
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\bin\Debug\net7.0\Framework.Domain.dll
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\bin\Debug\net7.0\Framework.Domain.pdb
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\obj\Debug\net7.0\Framework.Web.csproj.AssemblyReference.cache
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\obj\Debug\net7.0\Framework.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\obj\Debug\net7.0\Framework.Web.AssemblyInfoInputs.cache
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\obj\Debug\net7.0\Framework.Web.AssemblyInfo.cs
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\obj\Debug\net7.0\Framework.Web.csproj.CoreCompileInputs.cache
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\obj\Debug\net7.0\Framework.Web.csproj.CopyComplete
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\obj\Debug\net7.0\Framework.Web.dll
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\obj\Debug\net7.0\refint\Framework.Web.dll
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\obj\Debug\net7.0\Framework.Web.pdb
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Web\obj\Debug\net7.0\ref\Framework.Web.dll

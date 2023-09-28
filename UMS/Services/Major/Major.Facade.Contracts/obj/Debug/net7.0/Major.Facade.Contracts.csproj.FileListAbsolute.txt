@@ -1,0 +1,11 @@
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade.Contracts\bin\Debug\net7.0\Major.Facade.Contracts.deps.json
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade.Contracts\bin\Debug\net7.0\Major.Facade.Contracts.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade.Contracts\bin\Debug\net7.0\Major.Facade.Contracts.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade.Contracts\obj\Debug\net7.0\Major.Facade.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade.Contracts\obj\Debug\net7.0\Major.Facade.Contracts.AssemblyInfoInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade.Contracts\obj\Debug\net7.0\Major.Facade.Contracts.AssemblyInfo.cs
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade.Contracts\obj\Debug\net7.0\Major.Facade.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade.Contracts\obj\Debug\net7.0\Major.Facade.Contracts.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade.Contracts\obj\Debug\net7.0\refint\Major.Facade.Contracts.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade.Contracts\obj\Debug\net7.0\Major.Facade.Contracts.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade.Contracts\obj\Debug\net7.0\ref\Major.Facade.Contracts.dll

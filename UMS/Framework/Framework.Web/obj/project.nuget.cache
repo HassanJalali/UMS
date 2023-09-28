@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZcOT637mN9/nVGHfwH40yYdZnsAVb5RN76q3yxtOqeICuJ74a9svS71NrLlLg9S4Ttt0ZmKZeUyGRqLp5Rh15w==",
+  "success": false,
+  "projectFilePath": "D:\\SampleProject\\SGMS\\SGMS\\Framework\\Framework.Web\\Framework.Web.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Serilog"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\bin\Debug\net7.0\Framework.ClientApp.deps.json
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\bin\Debug\net7.0\Framework.ClientApp.dll
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\bin\Debug\net7.0\Framework.ClientApp.pdb
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\obj\Debug\net7.0\Framework.ClientApp.csproj.AssemblyReference.cache
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\obj\Debug\net7.0\Framework.ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\obj\Debug\net7.0\Framework.ClientApp.AssemblyInfoInputs.cache
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\obj\Debug\net7.0\Framework.ClientApp.AssemblyInfo.cs
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\obj\Debug\net7.0\Framework.ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\obj\Debug\net7.0\Framework.ClientApp.dll
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\obj\Debug\net7.0\refint\Framework.ClientApp.dll
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\obj\Debug\net7.0\Framework.ClientApp.pdb
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.ClientApp\obj\Debug\net7.0\ref\Framework.ClientApp.dll

@@ -1,0 +1,11 @@
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade\bin\Debug\net7.0\Major.Facade.deps.json
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade\bin\Debug\net7.0\Major.Facade.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade\bin\Debug\net7.0\Major.Facade.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade\obj\Debug\net7.0\Major.Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade\obj\Debug\net7.0\Major.Facade.AssemblyInfoInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade\obj\Debug\net7.0\Major.Facade.AssemblyInfo.cs
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade\obj\Debug\net7.0\Major.Facade.csproj.CoreCompileInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade\obj\Debug\net7.0\Major.Facade.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade\obj\Debug\net7.0\refint\Major.Facade.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade\obj\Debug\net7.0\Major.Facade.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Facade\obj\Debug\net7.0\ref\Major.Facade.dll

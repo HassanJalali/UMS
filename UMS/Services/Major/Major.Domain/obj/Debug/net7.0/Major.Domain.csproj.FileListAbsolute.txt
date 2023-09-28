@@ -1,0 +1,11 @@
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Domain\bin\Debug\net7.0\Major.Domain.deps.json
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Domain\bin\Debug\net7.0\Major.Domain.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Domain\bin\Debug\net7.0\Major.Domain.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Domain\obj\Debug\net7.0\Major.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Domain\obj\Debug\net7.0\Major.Domain.AssemblyInfoInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Domain\obj\Debug\net7.0\Major.Domain.AssemblyInfo.cs
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Domain\obj\Debug\net7.0\Major.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Domain\obj\Debug\net7.0\Major.Domain.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Domain\obj\Debug\net7.0\refint\Major.Domain.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Domain\obj\Debug\net7.0\Major.Domain.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Domain\obj\Debug\net7.0\ref\Major.Domain.dll

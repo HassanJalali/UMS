@@ -1,0 +1,11 @@
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Persistence\bin\Debug\net7.0\Major.Persistence.deps.json
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Persistence\bin\Debug\net7.0\Major.Persistence.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Persistence\bin\Debug\net7.0\Major.Persistence.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Persistence\obj\Debug\net7.0\Major.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Persistence\obj\Debug\net7.0\Major.Persistence.AssemblyInfoInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Persistence\obj\Debug\net7.0\Major.Persistence.AssemblyInfo.cs
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Persistence\obj\Debug\net7.0\Major.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Persistence\obj\Debug\net7.0\Major.Persistence.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Persistence\obj\Debug\net7.0\refint\Major.Persistence.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Persistence\obj\Debug\net7.0\Major.Persistence.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Persistence\obj\Debug\net7.0\ref\Major.Persistence.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1kQQxhdQz+Yt2nr2NoFIKVbdmiku9ckssxW/PDVYz33bpKVytyltIBbQDgtNq77sfMoGXwZsEDa/zdeXiEHyjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mister.Dev\\Desktop\\UMS\\UMS\\Framework\\Framework.Utility\\Framework.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\pluralize.net.core\\1.0.0\\pluralize.net.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

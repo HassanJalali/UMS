@@ -1,0 +1,13 @@
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\bin\Debug\net7.0\Major.Resources.deps.json
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\bin\Debug\net7.0\Major.Resources.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\bin\Debug\net7.0\Major.Resources.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\obj\Debug\net7.0\Major.Resources.MajorExcptionMessages.resources
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\obj\Debug\net7.0\Major.Resources.csproj.GenerateResource.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\obj\Debug\net7.0\Major.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\obj\Debug\net7.0\Major.Resources.AssemblyInfoInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\obj\Debug\net7.0\Major.Resources.AssemblyInfo.cs
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\obj\Debug\net7.0\Major.Resources.csproj.CoreCompileInputs.cache
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\obj\Debug\net7.0\Major.Resources.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\obj\Debug\net7.0\refint\Major.Resources.dll
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\obj\Debug\net7.0\Major.Resources.pdb
+C:\Users\Mister.Dev\Desktop\UMS\UMS\Services\Major\Major.Resources\obj\Debug\net7.0\ref\Major.Resources.dll

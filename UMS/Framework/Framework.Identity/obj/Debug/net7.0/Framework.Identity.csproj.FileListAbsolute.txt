@@ -1,0 +1,12 @@
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\bin\Debug\net7.0\Framework.Identity.deps.json
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\bin\Debug\net7.0\Framework.Identity.dll
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\bin\Debug\net7.0\Framework.Identity.pdb
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\obj\Debug\net7.0\Framework.Identity.csproj.AssemblyReference.cache
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\obj\Debug\net7.0\Framework.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\obj\Debug\net7.0\Framework.Identity.AssemblyInfoInputs.cache
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\obj\Debug\net7.0\Framework.Identity.AssemblyInfo.cs
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\obj\Debug\net7.0\Framework.Identity.csproj.CoreCompileInputs.cache
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\obj\Debug\net7.0\Framework.Identity.dll
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\obj\Debug\net7.0\refint\Framework.Identity.dll
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\obj\Debug\net7.0\Framework.Identity.pdb
+C:\Users\28.BULUTTAKIN\Desktop\SGMS\SGMS\Framework\Framework.Identity\obj\Debug\net7.0\ref\Framework.Identity.dll

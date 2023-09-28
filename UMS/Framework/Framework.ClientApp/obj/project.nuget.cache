@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MyswO2+TqPpXc11PQPG/5XA7Ti8n7gs+D5R75L9VbaxTaoZBlPS3ya/6BiuRppoAuIk+kI47fviLZmugb1oUJQ==",
+  "success": true,
+  "projectFilePath": "D:\\SampleProject\\SGMS\\SGMS\\Framework\\Framework.ClientApp\\Framework.ClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mister.Dev\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
